@@ -1,0 +1,9 @@
+name: Gioxox
+version: '1.0-SNAPSHOT'
+main: it.gioxox.Gioxox
+api-version: 1.19
+load: STARTUP
+commands:
+  social:
+    description: link channels
+    usage: /<command>
